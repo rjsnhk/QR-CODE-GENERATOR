@@ -1,4 +1,4 @@
-Here's a sample README section with emojis for your QR Code Generator project on GitHub:
+
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the **QR Code Generator**! This simple and efficient tool lets you ge
 ## 🛠️ How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/rjsnhk/QR-CODE-GENERATOR.git
    ```
 2. **Open the `index.html`** in your browser.
 3. **Enter your text or URL** in the input box.
